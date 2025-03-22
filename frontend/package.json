@@ -2,7 +2,7 @@
   "name": "resume_analyzer",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://omkarpawargeek.github.io/resume_analyzer",
+  "homepage": "https://omkarpawargcek.github.io/resume_analyzer/",
   "dependencies": {
     "axios": "^1.8.4",
     "react": "^18.0.0",
