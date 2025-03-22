@@ -12,11 +12,15 @@
     "start": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "tailwind-init": "tailwindcss init -p"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
     "gh-pages": "^5.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.15",
     "vite": "^6.2.2"
   }
 }
